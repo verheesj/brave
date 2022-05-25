@@ -1,0 +1,29 @@
+{
+  "name": "brave",
+  "version": "0.0.1",
+  "description": "Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verheesj/brave.git"
+  },
+  "keywords": [
+    "av",
+    "gstreamer",
+    "nodejs",
+    "video",
+    "mixer",
+    "av",
+    "mix",
+    "ffmpeg"
+  ],
+  "author": "Jonathan Verhees <jonathan@verhe.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verheesj/brave/issues"
+  },
+  "homepage": "https://github.com/verheesj/brave#readme"
+}
